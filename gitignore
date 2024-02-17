@@ -1,0 +1,10 @@
+# Ignorer les fichiers exécutables
+*.exe
+*.out
+
+# Ignorer les fichiers objets
+*.o
+*.obj
+
+# Ignorer les fichiers temporaires
+*~
